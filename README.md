@@ -6,3 +6,5 @@ The text summarizer is made purely in java, without the use of any nlp libraries
 - Run the code.
 - Enter the file URL in the command line UI.
 - The output (summary of the text) will be displayed on the screen.
+
+Feel free to recommend any changes or report if you encounter any errors.
