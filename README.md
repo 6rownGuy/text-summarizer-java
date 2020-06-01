@@ -1,4 +1,4 @@
-# text-summarizer-java
+# Text Summarizer
 The text summarizer is made purely in java, without the use of any nlp libraries. The algorithm is pretty straight-forward and is quite effective. It breaks the whole text into sentences and determines the weight of each sentence. Sentences with highest weights are then displayed as the summary.
 
 # Instructions
